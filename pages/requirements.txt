@@ -4,4 +4,5 @@ scikit-learn==1.6.1
 joblib==1.5.1
 category_encoders
 xgboost
-imbalanced-learn==1.6.1
+imbalanced-learn==0.13.0
+
